@@ -164,6 +164,18 @@
         android:layout_marginBottom="50dp"
         android:background="@drawable/Vector" />
 
+    <View
+        android:layout_width="47dp"
+        android:layout_height="35dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="303dp"
+        android:layout_marginTop="734dp"
+        android:layout_marginRight="61dp"
+        android:layout_marginBottom="54dp"
+        android:background="@drawable/img" />
 
 
 </RelativeLayout>
