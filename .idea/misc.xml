@@ -4,14 +4,19 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/drawable/ellipse_1.xml" value="0.3648148148148148" />
+        <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/drawable/ellipse_2.xml" value="0.2552083333333333" />
         <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/drawable/ellipse_5.xml" value="0.3648148148148148" />
         <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/drawable/image_5.xml" value="0.3648148148148148" />
         <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/drawable/line_2.xml" value="0.31574074074074077" />
         <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/drawable/line_3.xml" value="0.3648148148148148" />
         <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/drawable/line_4.xml" value="0.3648148148148148" />
+        <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/drawable/rectangle_2.xml" value="0.2552083333333333" />
         <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/drawable/rectangle_5.xml" value="0.25257731958762886" />
         <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/drawable/rectangle_6.xml" value="0.25257731958762886" />
+        <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/drawable/vector.xml" value="0.2552083333333333" />
         <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/layout/activity_main2.xml" value="0.24444444444444444" />
+        <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/layout/activity_main3.xml" value="0.24444444444444444" />
         <entry key="..\:/projects/PR9_Romanyenko/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3648148148148148" />
       </map>
     </option>

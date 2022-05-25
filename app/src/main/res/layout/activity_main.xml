@@ -199,16 +199,16 @@
         android:text="Хомяки"
         android:gravity="top"
         />
+
     <View
         android:id="@+id/rectangle_5"
         android:layout_width="241dp"
         android:layout_height="40dp"
         android:layout_alignParentLeft="true"
-        android:layout_marginLeft="85dp"
         android:layout_alignParentTop="true"
+        android:layout_marginLeft="85dp"
         android:layout_marginTop="591dp"
-        android:background="@drawable/rectangle_5"
-        />
+        android:background="@drawable/rectangle_5" />
 
     <TextView
         android:layout_width="148dp"
@@ -243,16 +243,16 @@
         android:textColor="#4D4242"
         android:gravity="top"
         />
+
     <View
         android:id="@+id/image_8"
         android:layout_width="158.58dp"
         android:layout_height="52.28dp"
         android:layout_alignParentLeft="true"
-        android:layout_marginLeft="224.23dp"
         android:layout_alignParentTop="true"
+        android:layout_marginLeft="224.23dp"
         android:layout_marginTop="721.37dp"
-        android:background="@drawable/image_8"
-        />
+        android:background="@drawable/image_8" />
     <TextView
         android:layout_width="108dp"
         android:layout_height="wrap_content"
