@@ -45,6 +45,7 @@
         android:textColor="#2E2D2D"
         android:gravity="right|top"
         />
+
     <View
         android:id="@+id/image_8"
         android:layout_width="158.58dp"
